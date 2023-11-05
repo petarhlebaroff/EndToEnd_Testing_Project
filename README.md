@@ -12,6 +12,7 @@ To explore our Final Telerik Academy Project, please follow this [link](https://
 - **Test Automation Framework:** A Java-based framework featuring automated tests using Rest Assured and Selenium WebDriver.
 - **JMeter Test Plan:** Our performance testing plan using JMeter.
 - **Mid and Final Reports:** Detailed progress and results reports.
+- **And even more..**
 
 ## Recognition
 
