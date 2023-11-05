@@ -1,4 +1,4 @@
-# End-to-End Testing Project
+# [End-to-End Testing Project](https://github.com/MCHN-Final-Project/bug-free-happiness.git)
 
 This repository represents the culmination of our QA Automation training at Telerik Academy. Our goal was to thoroughly test an application and apply the technologies we've learned during the course.
 
